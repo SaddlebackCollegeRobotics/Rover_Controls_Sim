@@ -1,2 +1,6 @@
 # Rover Controls Sim
-Unity project to write controls configuration and speed-up iteration time for testing.
+Unity Simulation to help with rover planning.
+
+- Camera position testing.
+- Controls drive controls programming.
+- etc
