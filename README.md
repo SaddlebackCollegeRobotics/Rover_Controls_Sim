@@ -2,5 +2,5 @@
 Unity Simulation to help with rover planning.
 
 - Camera position testing.
-- Controls drive controls programming.
+- Drive controls programming.
 - etc
